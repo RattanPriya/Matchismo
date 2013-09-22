@@ -1,8 +1,8 @@
 //
 //  GameResult.h
 //  Matchismo
-//
-//  Created by Martin Mandl on 14.02.13.
+// 
+//  Created by Rattan Priya
 //  Copyright (c) 2013 m2m server software gmbh. All rights reserved.
 //
 
